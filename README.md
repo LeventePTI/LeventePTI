@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LeventePTI
+- 👀 I’m interested in programming anything (video games, software, web or mobile application)
+- 🌱 I’m currently learning to program in Python
+- 💞️ I’m looking to collaborate on anything, I would like to help
+- 📫 Anyone can reach me via GitHub
+- ⚡ Fun fact: Guinness World Records lists the largest snowflakes as having fallen during a storm in January 1887 at Fort Keogh, in Montana. A rancher nearby, the book says, called them “larger than milk pans” and measured one at 15 inches wide
